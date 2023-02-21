@@ -14,12 +14,12 @@ a {
   border: none;
   cursor: pointer;
   outline: none;
-  color: gray;
+  color: black;
 }
 .center-up {
   position: absolute;
   text-align: center;
-  top: 25%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
