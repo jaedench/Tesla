@@ -1,0 +1,36 @@
+body {
+  font-family: "Montserrat";
+  background-image: url("Homepage-Model-3-Desktop-LHD.jpeg");
+  background-size: 100%;
+}
+header {
+  background-color: white;
+}
+navbar {
+  background-color: transparent;
+}
+a {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  color: gray;
+}
+.center-up {
+  position: absolute;
+  text-align: center;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.bottom-buttons {
+  position: absolute;
+  text-align: center;
+  display: inline-flex;
+  background-color: transparent;
+  height: 100px;
+  padding: 100px;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
