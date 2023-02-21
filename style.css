@@ -24,14 +24,9 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.bottom-buttons {
-  position: absolute;
-  text-align: center;
-  display: inline-flex;
-  background-color: transparent;
-  height: 100px;
-  padding: 100px;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.button {
+  display: inline;
+}
+.row{
+  padding-top: 550px;
 }
