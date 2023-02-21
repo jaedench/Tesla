@@ -1,5 +1,6 @@
 body {
-  font-family: "Montserrat";
+  font-family: -apple-system, "Montserrat";
+  font-weight: bold;
   background-image: url("Homepage-Model-3-Desktop-LHD.jpeg");
   background-size: 100%;
 }
@@ -19,7 +20,7 @@ a {
 .center-up {
   position: absolute;
   text-align: center;
-  top: 30%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
